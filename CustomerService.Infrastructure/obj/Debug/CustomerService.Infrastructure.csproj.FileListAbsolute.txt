@@ -1,0 +1,5 @@
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Infrastructure\bin\Debug\CustomerService.Infrastructure.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Infrastructure\bin\Debug\CustomerService.Infrastructure.pdb
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Infrastructure\obj\Debug\CustomerService.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Infrastructure\obj\Debug\CustomerService.Infrastructure.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Infrastructure\obj\Debug\CustomerService.Infrastructure.pdb

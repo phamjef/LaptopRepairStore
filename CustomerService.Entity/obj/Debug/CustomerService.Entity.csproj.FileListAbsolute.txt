@@ -1,0 +1,5 @@
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Entity\bin\Debug\CustomerService.Entity.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Entity\bin\Debug\CustomerService.Entity.pdb
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Entity\obj\Debug\CustomerService.Entity.csprojAssemblyReference.cache
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Entity\obj\Debug\CustomerService.Entity.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Entity\obj\Debug\CustomerService.Entity.pdb

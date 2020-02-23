@@ -1,0 +1,8 @@
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\bin\Debug\CustomerService.Data.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\bin\Debug\CustomerService.Data.pdb
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\bin\Debug\CustomerService.Entity.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\bin\Debug\CustomerService.Entity.pdb
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\obj\Debug\CustomerService.Data.csprojAssemblyReference.cache
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\obj\Debug\CustomerService.Data.csproj.CopyComplete
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\obj\Debug\CustomerService.Data.dll
+C:\Users\Jeffrey\source\repos\CustomerService\CustomerService.Data\obj\Debug\CustomerService.Data.pdb
