@@ -1,2 +1,2 @@
 # LaptopRepairStore
-Personal Project WinForm Application using 3 tiered application architecture.
+This is my current Personal Project using WinForm and 3 tiered application architecture.
