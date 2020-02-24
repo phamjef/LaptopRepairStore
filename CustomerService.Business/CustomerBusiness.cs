@@ -61,12 +61,7 @@ namespace CustomerService.Business
                 return _customerData.InsertCustomerInfo(customer);
         }
 
-        public static string CreateCustomerID()
-        {
-            int length = 8;
-            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-            return new string(Enumerable.Repeat(chars, length).Select(s => s[random.Next(s.Length)]).ToArray());
-        }
+
        
 
   
