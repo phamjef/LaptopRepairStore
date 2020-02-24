@@ -54,7 +54,7 @@ namespace CustomerService
             _customerDTO.LastName = txtLastName.Text;
             _customerDTO.EmailAddress = txtEmailAddress.Text;
             _customerDTO.MobileNumber = txtMobileNumber.Text;
-            _customerDTO.CustRefNum = "temporary";
+            _customerDTO.CustRefNum = CustomerBusiness.CreateCustRefNum(10);
             //_customerDTO.LoggedBy = 
             _customerDTO.LogDate = DateTime.Now;
 

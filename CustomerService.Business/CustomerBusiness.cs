@@ -61,7 +61,20 @@ namespace CustomerService.Business
                 return _customerData.InsertCustomerInfo(customer);
         }
 
+        public static string CreateCustRefNum(int numLength)
+        {
+            
+            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            int charslength = chars.Length;
+            StringBuilder stringBuilder = new StringBuilder();
+            Random rand = new Random();
+            for (int i = 0; i< numLength; i++ )
+            {
+                stringBuilder.Append(chars[rand.Next(0, charslength-1)]);
+            }
+            return stringBuilder.ToString();
 
+        }
        
 
   
